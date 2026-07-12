@@ -1,0 +1,11 @@
+driver_id,driver_name,age,gender,phone_number,license_number,license_expiry,city,experience_years,status
+DRV001,Rajesh Kumar,34,Male,9876501001,DL-BR01-20180012345,2029-05-14,Patna,8,Active
+DRV002,Amit Singh,29,Male,9876501002,DL-BR01-20200023456,2030-08-22,Buxar,5,Active
+DRV003,Sanjay Yadav,41,Male,9876501003,DL-BR04-20150034567,2028-11-09,Ara,14,Active
+DRV004,Vikash Sharma,32,Male,9876501004,DL-BR01-20190045678,2029-12-18,Patna,7,On Leave
+DRV005,Rohit Verma,27,Male,9876501005,DL-BR44-20210056789,2031-03-27,Bihar Sharif,4,Active
+DRV006,Manoj Gupta,38,Male,9876501006,DL-BR02-20160067890,2028-07-15,Gaya,11,Active
+DRV007,Deepak Kumar,31,Male,9876501007,DL-BR06-20190078901,2030-01-30,Muzaffarpur,7,Active
+DRV008,Arjun Prasad,45,Male,9876501008,DL-BR01-20130089012,2027-10-12,Patna,18,Active
+DRV009,Neha Kumari,30,Female,9876501009,DL-BR01-20200090123,2030-06-19,Danapur,5,Active
+DRV010,Pooja Singh,28,Female,9876501010,DL-BR01-20210001234,2031-09-08,Patna,4,Inactive
