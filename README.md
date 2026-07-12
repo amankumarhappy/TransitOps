@@ -2,6 +2,8 @@
 # TransitOps
 
 **Smart Transport Operations Platform**
+<img width="1000" height="433" alt="image" src="https://github.com/user-attachments/assets/6aad6c7b-cde6-463c-b888-2d41f9e88818" />
+
 
 TransitOps is a user-centric transport operations web application for managing vehicles, drivers, trips, maintenance, fuel, expenses, and fleet analytics in one real-time system.
 
@@ -16,7 +18,7 @@ It is built to replace spreadsheets and manual logbooks with a centralized workf
 
 ## Live Demo
 
-- Admin Dashboard: https://transit-ops-khaki.vercel.app/admin/dashboard
+- Admin Dashboard: https://transit-ops-khaki.vercel.app
 
 ---
 
@@ -25,12 +27,19 @@ It is built to replace spreadsheets and manual logbooks with a centralized workf
 > Add 4–6 screenshots here for the best submission quality.
 
 ### Suggested screenshots
-1. Login page
-2. Admin dashboard
-3. Vehicles page
-4. Drivers page
-5. Trip creation / dispatch flow
-6. Mobile driver dashboard
+1. Login page <img width="837" height="949" alt="image" src="https://github.com/user-attachments/assets/bbce25ba-384a-4451-b907-ae1d80709289" />
+
+2. Admin dashboard <img width="1891" height="957" alt="image" src="https://github.com/user-attachments/assets/f0831dff-905a-4369-874e-5dbc537f11c3" />
+
+   
+4. Vehicles page <img width="1890" height="949" alt="image" src="https://github.com/user-attachments/assets/6c98875a-7046-4d50-bf1b-4603b9f10e10" />
+
+5. Drivers page <img width="1902" height="950" alt="image" src="https://github.com/user-attachments/assets/85d52074-8434-427f-8592-36d3279eb933" />
+
+6. Trip creation / dispatch flow <img width="1910" height="952" alt="image" src="https://github.com/user-attachments/assets/1728da65-096d-435f-a035-8575f01a9a82" />
+
+7. Mobile driver dashboard <img width="1911" height="954" alt="image" src="https://github.com/user-attachments/assets/e1f88091-c90f-4c46-b684-2970afdc0300" />
+
 
 ### Example format
 
